@@ -17,6 +17,7 @@ public class Pilas {
         pila.push(3);
         pila.push(4);
         pila.push(5);
+        pila.push(6);
 
         //Recorrido
         for(Integer pilita : pila){
